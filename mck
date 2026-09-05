@@ -1,0 +1,11 @@
+site_name: Greenwood Mod Source & Wiki
+theme:
+  name: material
+  palette:
+    primary: green  # Matches your greenwood theme!
+    accent: light green
+
+nav:
+  - Home: index.md
+  - Source Setup: setup.md
+  - Custom Logic: logic.md
